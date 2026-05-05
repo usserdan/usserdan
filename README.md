@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel! 🚀
 
 **Bioengineer | AI & Data Software Engineer** Focusing on the intersection of **Deep Learning**, **Medical Imaging**, and **Data Infrastructure**.  
-Based in Medellín, Colombia. 📍
+Medellín, Colombia. 📍
 
 ---
 
